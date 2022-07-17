@@ -1,0 +1,18 @@
+
+body {background-color: navajowhite;
+      margin: 5%;}
+
+h1 {margin-top: 0;}
+
+.sleva  { font-size: 17px;
+          min-height: 500px;
+          width: 60%;
+          float: left; }
+
+.sprava  { background-color: rgba(102, 205, 170, 0.7); 
+          text-align: center;
+          min-height: 500px;
+          width: 35%;
+          float: right;
+        border-style: ridge;}
+     
